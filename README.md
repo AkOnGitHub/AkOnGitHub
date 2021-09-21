@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkOnGitHub
 - 👀 I’m currently interested in coding, board games, cross-country, and playing the guitar.
 - 🌱 I’m currently learning how to code in Java and maybe Python!
-- 💞️ I’m looking to collaborate on a beginner coding project?
+- 💞️ I’m looking to collaborate on a beginner coding project (eventually)
 - 📫 How to reach me: akshay.irudayaraj@gmail.com
 
 <!---
